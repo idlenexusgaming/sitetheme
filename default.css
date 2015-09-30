@@ -349,6 +349,11 @@ img {
 	padding: 0 10px 10px 10px;
 }
 
+#feeds img {
+	opacity: 0.4;
+	filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
 #feeds div p {
 	padding-top: 22px;
 	font-weight: bold;
