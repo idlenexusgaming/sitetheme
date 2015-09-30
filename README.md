@@ -1,4 +1,4 @@
-# IdleNexusGaming.org Concrete5 Theme
+# http://IdleNexusGaming.org Concrete5 Theme
 
 This Theme is a heavily modified version of the Salt & Pepper theme found at 
 
@@ -11,4 +11,5 @@ the base concrete5 site.
 The basic concept, color scheme, and background images are original.
 
 The Banner image is a slightly modified version of a lovely image I found on
-the internet. I could not find the original author's information.
+the internet. I could not find the original author's information. You may
+find it and others like it using this search https://goo.gl/nC4F6E
