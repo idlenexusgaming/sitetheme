@@ -1,4 +1,4 @@
-# http://IdleNexusGaming.org Concrete5 Theme
+# http://www.idlenexus.org/ Concrete5 Theme
 
 This Theme is a heavily modified version of the Salt & Pepper theme found at 
 
